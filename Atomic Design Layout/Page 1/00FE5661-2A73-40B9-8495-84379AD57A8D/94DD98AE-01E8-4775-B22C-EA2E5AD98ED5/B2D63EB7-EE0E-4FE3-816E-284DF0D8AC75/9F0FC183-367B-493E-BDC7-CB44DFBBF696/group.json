@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F0FC183-367B-493E-BDC7-CB44DFBBF696",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6B83F70-2386-43B4-8777-650C92B33236",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CDB0EA05-9ECF-4458-814D-DC75E7155D7B",
+    "height": 52,
+    "width": 65,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "50A69E49-8776-4009-B539-A38D6220E407"
+    },
+    {
+      "class": "shapePath",
+      "id": "608D7521-5653-4C2C-A142-B8A5619A448A"
+    }
+  ],
+  "name": "Fill-1 Clipped",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1CAC650-B26F-4687-9683-C964BE076719",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "94DD98AE-01E8-4775-B22C-EA2E5AD98ED5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A8999755-E880-4C30-9CD2-8947BD28AF1E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BACF7C74-A256-49C9-80DC-86C8D6314667",
+    "height": 87,
+    "width": 82,
+    "x": 114,
+    "y": 138
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7510C922-AF97-4E33-A928-AAB682BB5C81"
+    },
+    {
+      "class": "group",
+      "id": "B2D63EB7-EE0E-4FE3-816E-284DF0D8AC75"
+    },
+    {
+      "class": "group",
+      "id": "013C1957-8CAF-4270-B28C-43A1C6F0866A"
+    }
+  ],
+  "name": "ifm vector logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB163650-1422-482E-BD42-35930D9CCDF3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
